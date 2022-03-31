@@ -1,0 +1,33 @@
+body{
+    background-color: crimson;
+}
+
+.container{
+
+    width: 80%;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+.img_topo{
+    width: 50%;
+}
+
+
+figure{
+    text-align: center;
+}
+
+p{
+    font: 1.5am;
+    color: black;
+    font-weight: bold;
+    text-indent: 40px;
+    text-align: justify;
+}
+
